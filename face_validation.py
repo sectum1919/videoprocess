@@ -1,3 +1,4 @@
+#coding=UTF-8
 import copy
 from scipy import misc
 from scipy.spatial.distance import euclidean

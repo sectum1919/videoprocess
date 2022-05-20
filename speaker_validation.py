@@ -1,3 +1,4 @@
+#coding=UTF-8
 from common import config
 from SyncNet import SyncNetInstance
 import numpy as np
